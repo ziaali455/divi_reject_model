@@ -2,7 +2,6 @@ import pickle
 import streamlit as st
 import pandas as pd
 import sklearn
-import sklearn.preprocessing
 from sklearn.preprocessing import StandardScaler
 
 st.markdown("# Divibank Summer 2023 Rejection Model Demo - Ali Zia")
